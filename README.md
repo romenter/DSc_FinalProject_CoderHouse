@@ -1,7 +1,7 @@
 Autor: Romen, Ter Gazarian
 
 
-#Data Science Final Project: Inflation Trend Analysis in Argentina
+<h1>Data Science Final Project: Inflation Trend Analysis in Argentina</h1>
 
 Proyecto final del curso de Data Science en CoderHouse. Modelado con Machine Learning para predecir la inflacion en Argentina en base a API de BCRA
 
