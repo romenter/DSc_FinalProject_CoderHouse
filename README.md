@@ -13,12 +13,12 @@ Este repositorio contiene todos los archivos y recursos asociados con mi proyect
 
 <h2>Contenidos:</h2>
 
-data/: Directorio que contiene conjuntos de datos brutos y procesados obtenidos a través de la API del BCRA.
-notebooks/: Colab con análisis detallado, incluyendo EDA, visualizaciones, pruebas estadísticas y modelado predictivo.
-models/: Modelos entrenados y serializados listos para evaluación o implementación.
-docs/: Documentación del proyecto, incluyendo metodología y conclusiones.
-reports/: Informes y presentaciones que resumen los hallazgos y las perspectivas del proyecto.
-requirements.txt: Dependencias y librerías necesarias para replicar el entorno de análisis.
+data/: Directorio que contiene conjuntos de datos brutos y procesados obtenidos a través de la API del BCRA.<br>
+notebooks/: Colab con análisis detallado, incluyendo EDA, visualizaciones, pruebas estadísticas y modelado predictivo.<br>
+models/: Modelos entrenados y serializados listos para evaluación o implementación.<br>
+docs/: Documentación del proyecto, incluyendo metodología y conclusiones.<br>
+reports/: Informes y presentaciones que resumen los hallazgos y las perspectivas del proyecto.<br>
+requirements.txt: Dependencias y librerías necesarias para replicar el entorno de análisis.<br>
 
 <h2>Principales Hallazgos:</h2>
 
